@@ -1,0 +1,35 @@
+com.studylink.app-transition-1.2.0-0 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/015323d3f3a43164a28ed44ffe50034e/transformed/transition-1.2.0/res
+com.studylink.app-ssp-android-1.1.0-1 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/07591b4878657f0b83e3e1c6082ba0b2/transformed/ssp-android-1.1.0/res
+com.studylink.app-emoji2-views-helper-1.2.0-2 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/0a21e5e9570b8eadbf7ec48723f0ab2f/transformed/emoji2-views-helper-1.2.0/res
+com.studylink.app-lifecycle-process-2.4.1-3 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1316e08195e53496a5cdd54cbcd73faf/transformed/lifecycle-process-2.4.1/res
+com.studylink.app-fragment-1.3.6-4 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2a6fb3c0a9477c8337d9a12f5838ebe8/transformed/fragment-1.3.6/res
+com.studylink.app-lifecycle-viewmodel-2.5.1-5 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2f5002a85b5e0bc404956f8cbca73540/transformed/lifecycle-viewmodel-2.5.1/res
+com.studylink.app-constraintlayout-2.1.4-6 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/4719c3b6c73ed0641055d212dd28f0f7/transformed/constraintlayout-2.1.4/res
+com.studylink.app-sdp-android-1.1.0-7 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/60272df351103027c2e0b6373e8341b2/transformed/sdp-android-1.1.0/res
+com.studylink.app-startup-runtime-1.1.1-8 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/6963b195332947f4a0c871a3e99b38ad/transformed/startup-runtime-1.1.1/res
+com.studylink.app-lifecycle-runtime-2.5.1-9 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/6fdf26eba655040c93eee2eea861c272/transformed/lifecycle-runtime-2.5.1/res
+com.studylink.app-lottie-6.1.0-10 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7eda14e89d4106931d9ed75f99feb983/transformed/lottie-6.1.0/res
+com.studylink.app-annotation-experimental-1.3.0-11 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/8293a44d7a0941010d56ec1457472b69/transformed/annotation-experimental-1.3.0/res
+com.studylink.app-activity-1.6.0-12 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/866d2ed1a0d1cae1998034f18d5ba270/transformed/activity-1.6.0/res
+com.studylink.app-savedstate-1.2.0-13 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/8b47084594e8347f22cf8c756085b249/transformed/savedstate-1.2.0/res
+com.studylink.app-drawerlayout-1.1.1-14 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/9420b5e1c8e8ab73cc508fd88fd6a104/transformed/drawerlayout-1.1.1/res
+com.studylink.app-coordinatorlayout-1.1.0-15 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b6759148cb68831fbde57eb10920a789/transformed/coordinatorlayout-1.1.0/res
+com.studylink.app-emoji2-1.2.0-16 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/res
+com.studylink.app-appcompat-resources-1.6.1-17 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b8aa9f8320163758402a6bbe988af4f7/transformed/appcompat-resources-1.6.1/res
+com.studylink.app-material-1.9.0-18 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b963be45d498a200089859b68d10c6ee/transformed/material-1.9.0/res
+com.studylink.app-lifecycle-livedata-core-2.5.1-19 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c1cc017d183c3cc729c0b0d7ff0317b7/transformed/lifecycle-livedata-core-2.5.1/res
+com.studylink.app-core-1.9.0-20 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/res
+com.studylink.app-lifecycle-viewmodel-savedstate-2.5.1-21 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/d383be8ec8461d76cf9f519a02fe6e38/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.studylink.app-recyclerview-1.1.0-22 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/d6ab72293d72d951815439a488c87a32/transformed/recyclerview-1.1.0/res
+com.studylink.app-cardview-1.0.0-23 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/de498219090c5b8e807aba002565a9f4/transformed/cardview-1.0.0/res
+com.studylink.app-appcompat-1.6.1-24 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e1348b34c4a494e9b45a13b5129bc53b/transformed/appcompat-1.6.1/res
+com.studylink.app-viewpager2-1.0.0-25 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e1a409c3f7a05c65b0d77fe39056faee/transformed/viewpager2-1.0.0/res
+com.studylink.app-logsender-2.5.3-beta-debug-26 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/res
+com.studylink.app-core-ktx-1.9.0-27 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ff3a7a3bad20d6d5120d10a153585d62/transformed/core-ktx-1.9.0/res
+com.studylink.app-resValues-28 /storage/emulated/0/study link/Study Link/app/build/generated/res/resValues/debug
+com.studylink.app-packageDebugResources-29 /storage/emulated/0/study link/Study Link/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.studylink.app-packageDebugResources-30 /storage/emulated/0/study link/Study Link/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.studylink.app-merged-not-compiled-resources-31 /storage/emulated/0/study link/Study Link/app/build/intermediates/merged-not-compiled-resources/debug
+com.studylink.app-merged_res-32 /storage/emulated/0/study link/Study Link/app/build/intermediates/merged_res/debug
+com.studylink.app-debug-33 /storage/emulated/0/study link/Study Link/app/src/debug/res
+com.studylink.app-main-34 /storage/emulated/0/study link/Study Link/app/src/main/res

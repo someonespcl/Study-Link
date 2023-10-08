@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     tools:context=".activities.ActivityCreateAccount">
+
+    <layout
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         include="@layout/circles_background" />
+
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:textAlignment="viewStart"
+         android:fontFamily="@font/poppins_bold"
+         android:textSize="@dimen/_20ssp"
+         android:textAllCaps="false"
+         android:textColor="@android:color/white"
+         android:layout_marginTop="@dimen/_16sdp"
+         android:layout_marginStart="@dimen/_20sdp"
+         android:text="@string/back" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

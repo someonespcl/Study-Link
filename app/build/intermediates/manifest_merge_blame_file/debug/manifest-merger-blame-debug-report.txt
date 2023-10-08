@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.studylink"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:23:5-25:15
+12        <package android:name="com.itsaky.androidide" />
+12-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:24:9-57
+12-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:24:18-54
+13    </queries>
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:27:5-67
+15-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:27:22-64
+16    <uses-permission android:name="com.itsaky.androidide.permission.BIND_LOG_SERVICE" />
+16-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:28:5-89
+16-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:28:22-86
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+19        android:name="com.studylink.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.studylink.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:4:5-28:19
+25        android:allowBackup="true"
+25-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:5:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cfdc328747e6e55b8d9443dbc8a5acff/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:enableOnBackInvokedCallback="true"
+28-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:12:9-51
+29        android:extractNativeLibs="false"
+30        android:icon="@mipmap/ic_launcher"
+30-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:6:9-43
+31        android:label="@string/app_name"
+31-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:8:9-41
+32        android:largeHeap="true"
+32-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:11:9-33
+33        android:roundIcon="@mipmap/ic_launcher"
+33-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:7:9-48
+34        android:supportsRtl="true"
+34-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:9:9-35
+35        android:theme="@style/StudyLink" >
+35-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:10:9-41
+36        <activity
+36-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:13:9-16:102
+37            android:name="com.studylink.MainActivity"
+37-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:14:13-40
+38            android:configChanges="density|orientation|screenLayout|screenSize|smallestScreenSize"
+38-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:16:13-99
+39            android:exported="true" />
+39-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:15:13-36
+40        <activity
+40-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:17:9-27:20
+41            android:name="com.studylink.activities.ActivityCreateAccount"
+41-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:18:13-61
+42            android:configChanges="density|orientation|screenLayout|screenSize|smallestScreenSize"
+42-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:20:13-99
+43            android:exported="true" >
+43-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:19:13-36
+44            <intent-filter>
+44-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:21:13-26:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:22:17-23:65
+45-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:23:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:24:17-25:71
+47-->/storage/emulated/0/study link/Study Link/app/src/main/AndroidManifest.xml:25:21-68
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:31:9-35:40
+52            android:name="com.itsaky.androidide.logsender.utils.LogSenderInstaller"
+52-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:32:13-84
+53            android:authorities="com.studylink.logsender-installer"
+53-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:33:13-71
+54            android:enabled="@bool/logsender_enabled"
+54-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:34:13-54
+55            android:exported="false" />
+55-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:35:13-37
+56
+57        <service
+57-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:37:9-39:40
+58            android:name="com.itsaky.androidide.logsender.LogSenderService"
+58-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:38:13-76
+59            android:exported="false" />
+59-->[com.itsaky.androidide:logsender:2.5.3-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/efb4a8620d27fdb43b91b8881a67d4b8/transformed/logsender-2.5.3-beta-debug/AndroidManifest.xml:39:13-37
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+63            android:authorities="com.studylink.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7d530a29ae76c68190ebdfedda8f4b1/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1316e08195e53496a5cdd54cbcd73faf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1316e08195e53496a5cdd54cbcd73faf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1316e08195e53496a5cdd54cbcd73faf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+71        </provider>
+72    </application>
+73
+74</manifest>

@@ -5,6 +5,7 @@ plugins {
 android {
     namespace 'com.studylink'
     compileSdk 33
+    buildToolsVersion "34.0.4"
 
     defaultConfig {
         applicationId "com.studylink"
