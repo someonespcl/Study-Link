@@ -3892,6 +3892,7 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id automatic
+id backText
 id barrier
 id baseline
 id beginOnFirstDraw

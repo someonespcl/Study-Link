@@ -7,18 +7,16 @@
      android:layout_width="match_parent"
      tools:context=".activities.ActivityCreateAccount">
 
-    <layout
-         android:layout_height="wrap_content"
-         android:layout_width="wrap_content"
-         include="@layout/circles_background" />
-
     <TextView
+         android:id="@+id/backText"
          android:layout_height="wrap_content"
          android:layout_width="wrap_content"
          android:textAlignment="viewStart"
          android:fontFamily="@font/poppins_bold"
-         android:textSize="@dimen/_20ssp"
+         android:textSize="@dimen/_16ssp"
          android:textAllCaps="false"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
          android:textColor="@android:color/white"
          android:layout_marginTop="@dimen/_16sdp"
          android:layout_marginStart="@dimen/_20sdp"

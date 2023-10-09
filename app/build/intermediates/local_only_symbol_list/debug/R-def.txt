@@ -24,6 +24,7 @@ font poppins_semibolditalic
 font poppins_thin
 font poppins_thinitalic
 font signlode_font
+id backText
 id coordinator
 id topCircle
 layout activity_main
